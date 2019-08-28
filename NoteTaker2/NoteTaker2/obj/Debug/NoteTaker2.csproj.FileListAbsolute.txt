@@ -1,0 +1,14 @@
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\bin\Debug\NoteTaker2.exe.config
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\bin\Debug\NoteTaker2.exe
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\bin\Debug\NoteTaker2.pdb
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.Properties.Resources.resources
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.csproj.GenerateResource.cache
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.csproj.CoreCompileInputs.cache
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.exe
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.pdb
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\bin\Debug\NoteTaker2.exe.manifest
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\bin\Debug\NoteTaker2.application
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.qTask.resources
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.exe.manifest
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.application
+C:\Users\sotis\source\repos\NoteTaker2\NoteTaker2\obj\Debug\NoteTaker2.csprojAssemblyReference.cache
